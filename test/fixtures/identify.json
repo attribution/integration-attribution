@@ -32,6 +32,7 @@
   "output": {
     "user_id": "user-id",
     "cookie_id": "session-id",
+    "timestamp": "2014-01-01T00:00:00.000Z",
     "traits": {
       "time": "2014-10-12T00:00:00.000Z",
       "id": "user-id",
